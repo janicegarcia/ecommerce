@@ -1,2 +1,1 @@
-# ecommerce
- Proyecto e-commerce de JaP
+# ecommerce-capacitador
